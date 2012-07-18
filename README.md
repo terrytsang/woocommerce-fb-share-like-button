@@ -25,7 +25,7 @@ Installation
 Frequently Asked Questions
 ---------------------------
 
-* After activated the plugin, do i need to insert facebook javascript after <body> tag?
+* After activated the plugin, do i need to insert facebook javascript after html body tag?
 
   No, you can straight away use the plugin as the plugin included the script.
 
@@ -34,10 +34,9 @@ Frequently Asked Questions
   To update your facebook app id for the plugin, go to plugin folder 'assets/js/' and open the file 'tsang_fbsharelike_jquery.js'. Update the default value for **fb_app_id** and save the file
 
 
-coming soon...
+Changelog
+-----------
 
-== Changelog ==
-
-= 1.0.0 =
-* Initial Release
-* Basic Facebook Share Like Button option for woocommerce products
+* 1.0.0
+  Initial Release
+  Basic Facebook Share Like Button option for woocommerce products
