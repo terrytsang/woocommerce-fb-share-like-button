@@ -38,6 +38,7 @@ Changelog
 -----------
 
 * 1.0.0
+    
     Initial Release
 
     Basic Facebook Share Like Button option for woocommerce products
