@@ -1,7 +1,7 @@
 woocommerce-fb-share-like-button
 ================================
 
-A WooCommerce plugin that implements facebook share and like button on product page.
+A wordpress WooCommerce plugin that implements facebook share and like button on product page.
 
 Description
 -----------
